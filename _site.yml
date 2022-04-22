@@ -1,0 +1,14 @@
+name: "Stat_website"
+navbar:
+  title: "Computational Statistics Website"
+  left:
+    - text: "Home"
+      href: index.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:sijuswamy"gmail.com
+    - icon: fa-github fa-lg
+      href: http://github.com/Sijuswamy/StatLab/
+output:
+  html_document:
+    theme: darkly
