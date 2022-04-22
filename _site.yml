@@ -1,4 +1,4 @@
-name: "Stat_website"
+name: "Experiment-1-Basic-Maths-using-R"
 navbar:
   title: "Computational Statistics Website"
   left:
@@ -6,9 +6,9 @@ navbar:
       href: index.html
   right:
     - icon: fa-envelope fa-lg
-      href: mailto:sijuswamy"gmail.com
+      href: mailto:"prudhwirajk"gmail.com
     - icon: fa-github fa-lg
-      href: http://github.com/Sijuswamy/StatLab/
+      href: https://https://prudhwi2002.github.io/Saintgits-MCA-College/
 output:
   html_document:
     theme: darkly
